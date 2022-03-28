@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Magnetron
+  - Door_01
+  - Door_02
+  - Door_03
+  - Kachel
+  - Locker_01
+  - Locker_02
+  - Locker_03
+  - Locker_04
+  - Locker_05
+  - Locker_06
+  - SmeltonLime
+  - Burger
+  - WiiRemote_01
+  - Pan_01
+  - Traveler
+  - Krukje
+  - Stack_01
+  - Glass_01
+  - SmeltonDarkBlue
+  - Plant
+  - SmeltonBlack
+  - Plates01
+  - Glasses01
+  - Beers01
+  - Frame01
+  - IceTea_01
+  - Tree
+  - Games_01
+  - Wii
+  - DoorOpening
+  - SmeltonPink
+  - Glasses02
+  - Camilla
+  - SmeltonBrown
+  - Flowers
+  - SmeltonOrange
+  - Plates_02
+  - Johnny
+  - Jenna
+  - Window
+  - SmeltonBlue
+  - Beers02
+  - IceTea_02
+  - Inside_01
+  - Inside_02
+  - Games_02
+  - SmeltonWhite
+  - Games_03
+  - IceTea_03
+  - WiiRemote_02
+  - Stack_02
+  - Beers03
+  - Games_04
+  - Games_05
+  - WiiRemote_03
+  - WiiRemote_04
+  - Games_06
+  - Fade
+  - Frame02
+  - Frame03
+  - Frame04
+  - Frame05
+  - Frame06
+  - Frame07
+  - Frame08
+  - Frame09
+  - Frame10
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PostProcessing
+  - Interact
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
